@@ -25,6 +25,9 @@
     "db-push": "supabase db push",
     "test": "jest"
   },
+  "engines": {
+    "node": "20.11.1"
+  },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.18.0",
     "@apidevtools/json-schema-ref-parser": "^11.1.0",
